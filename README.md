@@ -15,7 +15,8 @@
 
 ###
 
-<p align="left">📚 I'm currently a student at The German University in Cairo<br>🎯 Goals: Full Stack Developer, Data Analyst<br>🎲 Fun fact: I love dogs!</p>
+<p align="left">📚 I'm currently a student at <a href="https://guc.edu.eg/" target="_blank">
+The German University in Cairo  </a> <br>🎯 Goals: Full Stack Developer, Data Analyst<br>🎲 Fun fact: I love dogs!</p>
 
 ###
 
