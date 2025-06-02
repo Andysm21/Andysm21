@@ -14,7 +14,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">📚 I graduated from <a href="https://guc.edu.eg/" target="_blank">The German University in Cairo </a> with GPA 1.23 (German GPA)
+<p align="left">📚 I graduated from <a href="https://guc.edu.eg/" target="_blank">The German University in Cairo </a> 
 <p align="left">📚 I'm currently a Fullstack Software Engineer at <a href="https://www.sumerge.com" target="_blank">
 Sumerge  </a> <br>🎯 Goals: Full Stack Developer, Data Analyst<br>🎲 Fun fact: I love dogs!</p>
 
