@@ -47,6 +47,17 @@ Sumerge  </a> <br>🎯 Goals: Full Stack Developer, Data Analyst<br>🎲 Fun fac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/spring/original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="40" alt="ts logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg" height="40" alt="postgres logo"  />
+  <img width="12" />
+  
+  
 </div>
 
 ###
